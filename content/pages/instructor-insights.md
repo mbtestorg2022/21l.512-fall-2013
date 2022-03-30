@@ -22,7 +22,7 @@ Some of the texts come very close to fiction or are fictional, but are still bas
 {{< anchor "insights" >}}{{< /anchor >}}Instructor Insights
 -----------------------------------------------------------
 
-Dr. Kelley provides extensive insights into how she taught another course _[21L.501 The American Novel: Stranger and Stranger](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/)_, which includes pages on:
+Dr. Kelley provides extensive insights into how she taught another course _[21L.501 The American Novel: Stranger and Stranger](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013)_, which includes pages on:
 
 *   [Motivation and Organization of the Course](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/motivation-and-organization-of-the-course) 
 *   [Choice of Novels](/courses/21l-501-the-american-novel-stranger-and-stranger-spring-2013/pages/instructor-insights/choice-of-novels)
@@ -43,7 +43,7 @@ HASS-H ![](/images/educator/icon-question-hass-h.png)
 
 ### Offered
 
-This course on American authors is taught every second fall semester, though the focus and texts have changed with each iteration. Examples of past focus topics included American Trilogies, Classics Remixed, and [American Women Authors](/courses/21l-512-american-authors-american-women-authors-spring-2003/).
+This course on American authors is taught every second fall semester, though the focus and texts have changed with each iteration. Examples of past focus topics included American Trilogies, Classics Remixed, and [American Women Authors](/courses/21l-512-american-authors-american-women-authors-spring-2003).
 
 {{< anchor "classroom" >}}{{< /anchor >}}
 

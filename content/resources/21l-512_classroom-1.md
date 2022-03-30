@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8ca204cc-34d9-9fb9-54d4-cb25a8dbcbd9
 resourcetype: Image
 title: 21L-512_classroom-1
 uid: 1b9e3e89-159e-abc7-3371-6fba14a25d0d
